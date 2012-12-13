@@ -1,0 +1,9 @@
+C:\Rafael\Pessoal\ClientRequestSoap\ClientRequestSoap\bin\ClientRequestSoap.dll
+C:\Rafael\Pessoal\ClientRequestSoap\ClientRequestSoap\bin\ClientRequestSoap.pdb
+C:\Rafael\Pessoal\ClientRequestSoap\ClientRequestSoap\bin\Nancy.dll
+C:\Rafael\Pessoal\ClientRequestSoap\ClientRequestSoap\bin\Nancy.Hosting.Aspnet.dll
+C:\Rafael\Pessoal\ClientRequestSoap\ClientRequestSoap\bin\Nancy.ViewEngines.Razor.dll
+C:\Rafael\Pessoal\ClientRequestSoap\ClientRequestSoap\bin\System.Web.Razor.dll
+C:\Rafael\Pessoal\ClientRequestSoap\ClientRequestSoap\obj\Debug\ResolveAssemblyReference.cache
+C:\Rafael\Pessoal\ClientRequestSoap\ClientRequestSoap\obj\Debug\ClientRequestSoap.dll
+C:\Rafael\Pessoal\ClientRequestSoap\ClientRequestSoap\obj\Debug\ClientRequestSoap.pdb

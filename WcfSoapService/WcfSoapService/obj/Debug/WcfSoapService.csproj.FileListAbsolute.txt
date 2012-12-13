@@ -1,0 +1,9 @@
+C:\Rafael\Pessoal\WcfSoapService\WcfSoapService\bin\WcfSoapService.dll
+C:\Rafael\Pessoal\WcfSoapService\WcfSoapService\bin\WcfSoapService.pdb
+C:\Rafael\Pessoal\WcfSoapService\WcfSoapService\obj\Debug\ResolveAssemblyReference.cache
+C:\Rafael\Pessoal\WcfSoapService\WcfSoapService\obj\Debug\WcfSoapService.dll
+C:\Rafael\Pessoal\WcfSoapService\WcfSoapService\obj\Debug\WcfSoapService.pdb
+C:\Users\rpoveda\Desktop\WcfSoapService\WcfSoapService\bin\WcfSoapService.dll
+C:\Users\rpoveda\Desktop\WcfSoapService\WcfSoapService\bin\WcfSoapService.pdb
+C:\Users\rpoveda\Desktop\WcfSoapService\WcfSoapService\obj\Debug\WcfSoapService.dll
+C:\Users\rpoveda\Desktop\WcfSoapService\WcfSoapService\obj\Debug\WcfSoapService.pdb
